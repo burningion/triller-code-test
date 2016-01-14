@@ -4,7 +4,7 @@
 
 You've been given the task to build an API that solves the traveling
 salesman problem, and returns the optimal route via JSON. You must use
-simulated annealing to implement the search for the sortest route.
+simulated annealing to implement the search for the shortest route.
 
 The data sent to the API looks like the following:
 
